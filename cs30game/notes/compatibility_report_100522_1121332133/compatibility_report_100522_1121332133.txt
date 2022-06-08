@@ -1,0 +1,3 @@
+Font font_pixel has been converted to font family Arial (Regular)
+GameMaker Studio 1 font texture has been backed up at ${project_dir}\fonts\font_pixel\font_pixel.gms1.png
+Added compatibility script 'texture/texture_set_interpolation.gml'
