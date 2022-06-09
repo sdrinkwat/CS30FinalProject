@@ -4,3 +4,5 @@
 global.playerHealthMax = 3;
 global.playerHealth =global.playerHealthMax;
 global.playerState = "idle";
+global.points = 0;
+global.pointsMax = 5;
