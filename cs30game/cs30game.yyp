@@ -58,6 +58,7 @@
     {"id":{"name":"oHeartDisp","path":"objects/oHeartDisp/oHeartDisp.yy",},"order":2,},
     {"id":{"name":"spr_burger","path":"sprites/spr_burger/spr_burger.yy",},"order":5,},
     {"id":{"name":"font_pixel","path":"fonts/font_pixel/font_pixel.yy",},"order":0,},
+    {"id":{"name":"Sprite54","path":"sprites/Sprite54/Sprite54.yy",},"order":13,},
     {"id":{"name":"spr_ore_gold","path":"sprites/spr_ore_gold/spr_ore_gold.yy",},"order":22,},
     {"id":{"name":"oUI","path":"objects/oUI/oUI.yy",},"order":9,},
     {"id":{"name":"oPlatformMovX","path":"objects/oPlatformMovX/oPlatformMovX.yy",},"order":7,},
@@ -70,6 +71,7 @@
     {"id":{"name":"cliffsTiles","path":"sprites/cliffsTiles/cliffsTiles.yy",},"order":0,},
     {"id":{"name":"sHealth","path":"sprites/sHealth/sHealth.yy",},"order":7,},
     {"id":{"name":"spr_heartCell","path":"sprites/spr_heartCell/spr_heartCell.yy",},"order":17,},
+    {"id":{"name":"Menu","path":"rooms/Menu/Menu.yy",},"order":12,},
     {"id":{"name":"witchBasic","path":"sprites/witchBasic/witchBasic.yy",},"order":4,},
     {"id":{"name":"witchIdle","path":"sprites/witchIdle/witchIdle.yy",},"order":1,},
     {"id":{"name":"oPlayer","path":"objects/oPlayer/oPlayer.yy",},"order":0,},
@@ -89,6 +91,7 @@
     "children": [],
   },
   "RoomOrderNodes": [
+    {"roomId":{"name":"Menu","path":"rooms/Menu/Menu.yy",},},
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"roomId":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
     {"roomId":{"name":"Room3","path":"rooms/Room3/Room3.yy",},},
