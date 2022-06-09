@@ -5,6 +5,4 @@ hsp_walk = 4; //walk speed
 vsp_jump = -5; //jump speed
 enteredRoom = false;
 
-global.playerHealthMax = 3;
-global.playerHealth = global.playerHealthMax;
 
