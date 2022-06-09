@@ -14,6 +14,7 @@
     {"id":{"name":"spr_coinBag","path":"sprites/spr_coinBag/spr_coinBag.yy",},"order":8,},
     {"id":{"name":"spr_exclamation","path":"sprites/spr_exclamation/spr_exclamation.yy",},"order":12,},
     {"id":{"name":"AnimationCurve1","path":"animcurves/AnimationCurve1/AnimationCurve1.yy",},"order":15,},
+    {"id":{"name":"Room6","path":"rooms/Room6/Room6.yy",},"order":20,},
     {"id":{"name":"Room4","path":"rooms/Room4/Room4.yy",},"order":10,},
     {"id":{"name":"obj_spriteShow","path":"objects/obj_spriteShow/obj_spriteShow.yy",},"order":3,},
     {"id":{"name":"oDiamondDisp","path":"objects/oDiamondDisp/oDiamondDisp.yy",},"order":8,},
@@ -108,6 +109,7 @@
     {"roomId":{"name":"Room4","path":"rooms/Room4/Room4.yy",},},
     {"roomId":{"name":"Template","path":"rooms/Template/Template.yy",},},
     {"roomId":{"name":"Room5","path":"rooms/Room5/Room5.yy",},},
+    {"roomId":{"name":"Room6","path":"rooms/Room6/Room6.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":1,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},
