@@ -72,6 +72,7 @@
     {"id":{"name":"witchIdle","path":"sprites/witchIdle/witchIdle.yy",},"order":1,},
     {"id":{"name":"oPlayer","path":"objects/oPlayer/oPlayer.yy",},"order":0,},
     {"id":{"name":"oEntryPoint","path":"objects/oEntryPoint/oEntryPoint.yy",},"order":4,},
+    {"id":{"name":"sPumkin","path":"sprites/sPumkin/sPumkin.yy",},"order":8,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
