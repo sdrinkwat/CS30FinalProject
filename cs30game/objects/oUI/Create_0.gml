@@ -6,3 +6,5 @@ global.playerHealth =global.playerHealthMax;
 global.playerState = "idle";
 global.points = 0;
 global.pointsMax = 5;
+global.speedMultiplier = 1;
+global.counter1 = 0;

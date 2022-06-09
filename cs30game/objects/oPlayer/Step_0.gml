@@ -5,7 +5,7 @@ key_left = keyboard_check(vk_left);
 key_jump = keyboard_check(vk_space);
 
 //Work out where to move horizontally
-hsp = (key_right - key_left) * hsp_walk;
+hsp = (key_right - key_left) * hsp_walk * global.speedMultiplier;
 
 //Work out where to move vertically
 vsp = vsp + grv;

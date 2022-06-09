@@ -16,7 +16,7 @@ for (var i = 1; i < _playerHealthMax + 1; i++) {
 	draw_sprite(sHealth,_imageIndex, 32 + ((i-1)*32), 50);
 }
 
-for (var i = 1; i < global.pointsMax + 1; i++) {
+for (i = 1; i < global.pointsMax + 1; i++) {
 	var _imageIndex = (i > global.points);
 	draw_sprite(sPoints,_imageIndex, 32 + ((i-1)*32), 100);
 }
@@ -24,3 +24,5 @@ for (var i = 1; i < global.pointsMax + 1; i++) {
 if (global.playerHealth <= 0) {
 	game_restart();
 }
+
+
