@@ -2,6 +2,7 @@
   "resources": [
     {"id":{"name":"Sprite4","path":"sprites/Sprite4/Sprite4.yy",},"order":4,},
     {"id":{"name":"spr_fist","path":"sprites/spr_fist/spr_fist.yy",},"order":14,},
+    {"id":{"name":"oPumkin","path":"objects/oPumkin/oPumkin.yy",},"order":10,},
     {"id":{"name":"spr_oilDrum_grey","path":"sprites/spr_oilDrum_grey/spr_oilDrum_grey.yy",},"order":21,},
     {"id":{"name":"spr_cowboyHat","path":"sprites/spr_cowboyHat/spr_cowboyHat.yy",},"order":9,},
     {"id":{"name":"spr_grenade","path":"sprites/spr_grenade/spr_grenade.yy",},"order":15,},
@@ -19,6 +20,7 @@
     {"id":{"name":"spr_coin","path":"sprites/spr_coin/spr_coin.yy",},"order":7,},
     {"id":{"name":"witchAttack","path":"sprites/witchAttack/witchAttack.yy",},"order":5,},
     {"id":{"name":"witchDeathBroken","path":"sprites/witchDeathBroken/witchDeathBroken.yy",},"order":6,},
+    {"id":{"name":"oPumMov","path":"objects/oPumMov/oPumMov.yy",},"order":11,},
     {"id":{"name":"Sprite19","path":"sprites/Sprite19/Sprite19.yy",},"order":16,},
     {"id":{"name":"witchCharge","path":"sprites/witchCharge/witchCharge.yy",},"order":2,},
     {"id":{"name":"oExitTrigger","path":"objects/oExitTrigger/oExitTrigger.yy",},"order":5,},
