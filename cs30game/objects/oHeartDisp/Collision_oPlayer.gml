@@ -5,7 +5,7 @@
 global.playerHealth += 1;
 
 if (global.playerHealth >= global.playerHealthMax) {
-	global.playerHealthMax += 1;
+	global.playerHealth = global.playerHealthMax;
 }
 
 instance_destroy(id);
